@@ -1,6 +1,6 @@
 /// bv_character_state_spear()
  // Script to handle Shadow's spear.
-    if(state == CS_ROLL) {exit};
+    if(state == CS_ROLL || state == CS_GOAL_CAPSULE) {exit};
     
     if(ground && input_special_pressed && state != CS_SPEAR)
     {   

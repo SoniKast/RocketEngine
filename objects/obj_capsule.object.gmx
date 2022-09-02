@@ -114,6 +114,7 @@ capsule_mask = instance_create(x, y, obj_capsule_mask);
             input_left = false;
             input_right = false;
             input_action = false;
+            input_special = false;
         }
         break;
     }

@@ -1,6 +1,8 @@
  /// bv_character_state_hammer()
 //  Script to perform a Hammer attacks. (Amy only)
 
+    if(state == CS_GOAL_CAPSULE) {exit};
+    
     // Trigger one of 4 attacks:
        if(amy_hammer_attack == 0)
        {

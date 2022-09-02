@@ -1,6 +1,8 @@
 /// bv_character_state_dive()
 // Dive for Amy.
 
+    if(state == CS_GOAL_CAPSULE) {exit};
+    
     if(state == CS_DIVE)
     {
         if(not(angle > 45 && angle < 310))

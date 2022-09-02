@@ -1,6 +1,8 @@
 /// bv_character_state_short_hop()
 // Short Hop
 
+    if(state == CS_GOAL_CAPSULE) {exit};
+    
     if(state == CS_SHORT_HOP)
     {
         if(ground)

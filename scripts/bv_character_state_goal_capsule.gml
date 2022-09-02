@@ -1,7 +1,7 @@
 /// bv_character_state_goal_capsule()
  // Script for the player's goal state after hitting a capsule
  
-    if(state == CS_GOAL_CAPSULE)
+/*    if(state == CS_GOAL_CAPSULE)
     {
         x_speed = 2;
         lock_timer = 5;

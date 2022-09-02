@@ -1,7 +1,7 @@
 /// bv_character_state_jump();
  // The character jumping state.
 
-    if(amy_hammer_attack == 1 || amy_hammer_attack == 5){exit};
+    if(amy_hammer_attack == 1 || amy_hammer_attack == 5 || state == CS_GOAL_CAPSULE){exit};
  // Change to a variable jump:
     if(input_action == false && y_speed < jump_release)
     {

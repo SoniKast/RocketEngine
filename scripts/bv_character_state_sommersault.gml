@@ -1,6 +1,6 @@
 /// bv_character_state_sommersault();
  // Sommersault state.
-    if(state == CS_ROLL) {exit};
+    if(state == CS_ROLL || state == CS_GOAL_CAPSULE) {exit};
     
     // Check if you're grounded and you're sommersaulting
     if(ground && input_special_pressed && input_special_count = 1 && state != CS_SOMMERSAULT)
