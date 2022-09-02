@@ -1,4 +1,4 @@
-# RocketEngine
+# Rocket Engine
 A Sonic Advance-styled Sonic Engine for GameMaker: Studio.
 
 _________________________________________________________
