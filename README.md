@@ -24,6 +24,6 @@ Rocket Credits:
 - Gimmicks: SoniKast, PVic, A.NB, Chasman86
 - Physics: SoniKast
 - Level Design: Dimps
-- Music: SpeedVGM
+- Music: SpeedVGM, TheBlurCafe
 - Sounds: Sonic Team, Dimps, rips by Mr. Lange, SoniKast and BlazefireLP
 - Special thanks to A.NB (for genuinely 40% of the engine lol), the Sonic Technical Institute (character select code), Soup Taels (fixing Knuckles's swimming, really helped out in a pinch), Noah Copeland (Camera help), Alumae (probably wouldn't have continued this far if it werent for you), Damizean and RogueYoshi (for the very foundation of the engine) and SEGA for Sonic.
